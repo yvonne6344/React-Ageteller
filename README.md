@@ -5,4 +5,4 @@
 1.npm install<br>
 2.npm start
 
-<img src="http://imgur.com/GlOYpTj" width="500" height="250" />
+<img src="http://i.imgur.com/GlOYpTj.png" width="500" height="250" />
